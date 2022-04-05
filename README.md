@@ -1,2 +1,10 @@
-# keycloak-poc
-Proof of concept for Keycloak tool
+# Keycloak-POC
+### 1. Description
+Proof of concept for the Keycloak tool.
+
+### 2. Install
+```npm install```
+
+### 3. Run
+```docker compose up --build```
+

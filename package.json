@@ -1,0 +1,20 @@
+{
+  "name": "keycloak-poc",
+  "version": "1.0.0",
+  "description": "Proof of concept for Keycloak tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craitzus/keycloak-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craitzus/keycloak-poc/issues"
+  },
+  "homepage": "https://github.com/craitzus/keycloak-poc#readme"
+}
